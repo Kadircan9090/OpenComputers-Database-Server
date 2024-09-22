@@ -1,6 +1,6 @@
 ### Hi there 👋
 * Minecraft OpenComputers Lua
-* Java 22, Java 21, and Java 17 necessary
+* Java 23, Java 21, and Java 17 necessary
 * 
 *
 <!--
