@@ -1,7 +1,7 @@
 ### Hi there 👋
 * Minecraft OpenComputers Lua
 * Java 22, Java 21, and Java 17 necessary
-* I couldn't find how to make it work
+* 
 *
 <!--
 **Kadircan9091/Kadircan9091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
